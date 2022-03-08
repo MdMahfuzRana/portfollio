@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Live link https://modest-engelbart-dfc8e3.netlify.app/
+Live link https://dreamy-curie-fcd795.netlify.app/
 
 ## Available Scripts
 
