@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Live link https://dreamy-curie-fcd795.netlify.app/
+Live link https://nostalgic-beaver-7c06e1.netlify.app/
 
 ## Available Scripts
 
